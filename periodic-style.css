@@ -1,1 +1,40 @@
-
+th{
+    background-color:rgb(133, 146, 113);
+    border-radius:13%;
+    height:50px;
+    width:65px;
+}
+.empty{
+    background-color:white;
+    font-size:0;
+}
+.turqoise{
+    background-color:rgb(34, 177, 162);
+}
+.lightblue{
+    background-color:lightblue;
+}
+.yellow{
+    background-color:yellow;
+}
+.dark{
+    background-color:darkslategray;
+}
+.lightbrown{
+    background-color:#d4bb84;
+}
+.dark-green{
+    background-color:darkolivegreen;
+}
+.pink{
+    background-color:pink;
+}
+.orange{
+    background-color:orangered;
+}
+.brown{
+    background-color:rgb(160, 131, 86);
+}
+.violet{
+    background-color:rgb(102, 41, 102); 
+}
