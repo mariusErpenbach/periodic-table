@@ -1,3 +1,7 @@
+#periodic-table{
+    font-style: solid;
+    color:black;
+}
 th{
     background-color:rgb(133, 146, 113);
     border-radius:13%;
@@ -9,32 +13,32 @@ th{
     font-size:0;
 }
 .turqoise{
-    background-color:rgb(34, 177, 162);
+    background-color:#559F9F;
 }
 .lightblue{
-    background-color:lightblue;
+    background-color:#A6D9FB;
 }
 .yellow{
-    background-color:yellow;
+    background-color:#FFFF64;
 }
 .dark{
-    background-color:darkslategray;
+    background-color:#7B8CAF;
 }
 .lightbrown{
-    background-color:#d4bb84;
+    background-color:#E5C9A5;
 }
 .dark-green{
-    background-color:darkolivegreen;
+    background-color:#599454;
 }
 .pink{
-    background-color:pink;
+    background-color:#FFC8D0;
 }
 .orange{
-    background-color:orangered;
+    background-color:#FF9F7C;
 }
 .brown{
-    background-color:rgb(160, 131, 86);
+    background-color:#D8A95B;
 }
 .violet{
-    background-color:rgb(102, 41, 102); 
+    background-color:#D3A2D2; 
 }
